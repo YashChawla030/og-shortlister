@@ -119,12 +119,12 @@
         "companyName": "McKinsey & Company (Private Consulting Platform)",
         "images": [
           {
-            "fileName": "ra1.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/og-shortlister/master/images/ra1.png"
-          },
-          {
             "fileName": "ra4.png",
             "fileUrl": "https://raw.githubusercontent.com/templatesfarm/og-shortlister/master/images/ra4.png"
+          },
+          {
+            "fileName": "da2.jpg",
+            "fileUrl": "https://raw.githubusercontent.com/YashChawla030/og-shortlister/master/images/da2.jpg"
           }
         ]
       },
