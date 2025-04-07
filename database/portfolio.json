@@ -63,10 +63,41 @@
   },
   "projectsInfo": {
     "displayName": "Timeline",
-    "projects": []
+    "projects": [
+      {
+        "timeline": "",
+        "projectName": "",
+        "headline1": "",
+        "headline2": "",
+        "designation": "",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "skills": "",
+        "companyName": "",
+        "images": []
+      }
+    ]
   },
   "qualificationInfo": {
     "displayName": "Qualifications",
-    "qualifications": []
+    "qualifications": [
+      {
+        "timeline": "2019 - 2023",
+        "courseName": "Bachelor of Technology",
+        "instituteName": "Graphic Era University, Dehradun",
+        "specializedIn": "Computer Science with Software Engineering",
+        "yearPassout": "2023",
+        "headline1": "Gained strong foundation in software development, completed academic and personal tech projects.",
+        "headline2": "tudied core computer science subjects, built apps and games as projects, and actively engaged in college events.",
+        "cgpa": "8.64",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "images": []
+      }
+    ]
   }
 }
