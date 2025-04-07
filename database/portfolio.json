@@ -97,6 +97,20 @@
         "skills": "SAP S/4HANA, SAP SD, Business Process Optimization, Data Management ",
         "companyName": "Accenture",
         "images": []
+      },
+      {
+        "timeline": "Jul'22 - Oct'22",
+        "projectName": "",
+        "headline1": "Received the opportunity to learn ASP.Net Core and Angular Framework",
+        "headline2": "Created an ERP Portal using AngularJS and integrated the web interface with Google-map Api for login details purpose.",
+        "designation": "Internenship",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "skills": "ASP.NET Core, AngularJS, Frontend Development, API Integration",
+        "companyName": "Oritso Pvt Ltd",
+        "images": []
       }
     ]
   },
@@ -117,7 +131,7 @@
           "linkUrl": ""
         },
         "images": [],
-        "rank": "2"
+        "rank": "3"
       }
     ]
   }
