@@ -54,28 +54,7 @@
   },
   "achievementsInfo": {
     "displayName": "Achievements",
-    "listOfAchievements": [
-      {
-        "id": "1740415409476",
-        "text": "Earned the Certified Business Intelligence Analyst certification from Coursera in 2022, enhancing expertise in advanced data visualization and analytics.",
-        "type": "certificate"
-      },
-      {
-        "id": "1740415416341",
-        "text": "Published a research paper in the International Journal of Business Studies (2020), exploring the impact of data analytics on investment decisions.",
-        "type": "other"
-      },
-      {
-        "id": "1740415425859",
-        "text": "Successfully completed the Google Data Analytics Certification (2020), gaining proficiency in SQL, statistical modeling, and data-driven decision-making.",
-        "type": "certificate"
-      },
-      {
-        "id": "1740415435791",
-        "text": "Awarded the Best Market Research Report (2019) for an insightful industry analysis on the future of AI in business applications.",
-        "type": "award"
-      }
-    ]
+    "listOfAchievements": []
   },
   "projectsInfo": {
     "displayName": "Timeline",
