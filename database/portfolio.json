@@ -25,24 +25,9 @@
     "displayName": "Skills",
     "skills": [
       {
-        "id": "1744036531208",
-        "name": "Unity Engine",
-        "rating": 8
-      },
-      {
-        "id": "1744036546675",
-        "name": "React",
-        "rating": 8.5
-      },
-      {
         "id": "1744036554641",
         "name": "Next.js",
         "rating": 8.5
-      },
-      {
-        "id": "1744036574675",
-        "name": "GitHub",
-        "rating": 9
       },
       {
         "id": "1744036581758",
@@ -53,6 +38,36 @@
         "id": "1744036738824",
         "name": "Tailwind CSS",
         "rating": 8.5
+      },
+      {
+        "id": "1744037337843",
+        "name": "Unity Game Engine",
+        "rating": 8
+      },
+      {
+        "id": "1744037345809",
+        "name": "Game Design",
+        "rating": 8.5
+      },
+      {
+        "id": "1744037353509",
+        "name": "C#",
+        "rating": 8
+      },
+      {
+        "id": "1744037387643",
+        "name": "React.js",
+        "rating": 8.5
+      },
+      {
+        "id": "1744037393210",
+        "name": "JavaScript",
+        "rating": 8
+      },
+      {
+        "id": "1744037420760",
+        "name": "Application Development",
+        "rating": 8
       }
     ],
     "skillAnimationType": "moving-animation"
