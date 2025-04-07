@@ -65,17 +65,17 @@
     "displayName": "Timeline",
     "projects": [
       {
-        "timeline": "",
+        "timeline": "2023 - Present",
         "projectName": "",
-        "headline1": "",
-        "headline2": "",
-        "designation": "",
+        "headline1": "Completed comprehensive training in SAP SD and applied practical knowledge of SAP S/4HANA to optimize business operations and data management",
+        "headline2": "Contributed insights and recommendations for SAP system improvements based on training and practical experience.",
+        "designation": "Associate Software Engineer",
         "link": {
           "linkText": "",
           "linkUrl": ""
         },
-        "skills": "",
-        "companyName": "",
+        "skills": "SAP S/4HANA, SAP SD, Business Process Optimization, Data Management ",
+        "companyName": "Accenture",
         "images": []
       }
     ]
@@ -96,7 +96,8 @@
           "linkText": "",
           "linkUrl": ""
         },
-        "images": []
+        "images": [],
+        "rank": "2"
       }
     ]
   }
