@@ -48,6 +48,11 @@
         "id": "1744036581758",
         "name": "C++",
         "rating": 8
+      },
+      {
+        "id": "1744036738824",
+        "name": "Tailwind CSS",
+        "rating": 8.5
       }
     ],
     "skillAnimationType": "moving-animation"
