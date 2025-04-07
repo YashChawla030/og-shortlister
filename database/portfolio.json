@@ -58,94 +58,10 @@
   },
   "projectsInfo": {
     "displayName": "Timeline",
-    "projects": [
-      {
-        "timeline": "2021 – Present",
-        "projectName": "Global Market Intelligence Platform",
-        "headline1": "Led a team of 5 research analysts, streamlining data collection and processing workflows.",
-        "headline2": "Conducted competitive benchmarking using Power BI and SQL, identifying growth opportunities across 7+ industries.",
-        "designation": "Senior Research Analyst",
-        "link": {
-          "linkText": "Link",
-          "linkUrl": "https://originui.com/badge"
-        },
-        "skills": "SQL, Power BI, Tableau, Pandas, NumPy,TensorFlow",
-        "companyName": "McKinsey & Company (Private Consulting Platform)",
-        "images": [
-          {
-            "fileName": "ra4.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/og-shortlister/master/images/ra4.png"
-          },
-          {
-            "fileName": "da2.jpg",
-            "fileUrl": "https://raw.githubusercontent.com/YashChawla030/og-shortlister/master/images/da2.jpg"
-          }
-        ]
-      },
-      {
-        "timeline": "2019 – 2021",
-        "projectName": "Data-Driven Decision Intelligence",
-        "headline1": "Led business intelligence initiatives, helping clients optimize strategy using statistical modeling.",
-        "headline2": "Conducted policy impact assessments for healthcare, finance, and tech sectors.",
-        "designation": "Research Analyst",
-        "link": {
-          "linkText": "Link",
-          "linkUrl": "https://originui.com/badge"
-        },
-        "skills": "regression analysis, hypothesis testing, competitive analysis, market trends, risk assessment, data collection, data processing",
-        "companyName": "Deloitte",
-        "images": [
-          {
-            "fileName": "ra2.jpeg",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/og-shortlister/master/images/ra2.jpeg"
-          },
-          {
-            "fileName": "ra3.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/og-shortlister/master/images/ra3.png"
-          },
-          {
-            "fileName": "ra5.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/og-shortlister/master/images/ra5.png"
-          }
-        ]
-      }
-    ]
+    "projects": []
   },
   "qualificationInfo": {
     "displayName": "Qualifications",
-    "qualifications": [
-      {
-        "timeline": "2013 – 2017",
-        "courseName": "Bachelor’s in Economics",
-        "instituteName": "Delhi University",
-        "specializedIn": "Statistics, Microeconomics, Econometrics",
-        "yearPassout": "2017",
-        "headline1": "Published a paper on “The Impact of Inflation on Stock Market Volatility” in a reputed journal.",
-        "headline2": "Secured 2nd place in National Business Case Study Competition.",
-        "cgpa": "8.8",
-        "link": {
-          "linkText": "",
-          "linkUrl": ""
-        },
-        "images": [],
-        "rank": "4"
-      },
-      {
-        "timeline": "2017 – 2019",
-        "courseName": "Master’s in Business Analytics",
-        "instituteName": "Indian Institute of Management (IIM), Bangalore",
-        "specializedIn": "Business Analytics, Data Science, Market Research",
-        "yearPassout": "2019",
-        "headline1": "Conducted an in-depth study on consumer behavior in the e-commerce sector.",
-        "headline2": "Won the IIM Research Excellence Award for outstanding thesis on \"Predictive Modeling for Business Growth.\"",
-        "cgpa": "9.2",
-        "link": {
-          "linkText": "",
-          "linkUrl": ""
-        },
-        "images": [],
-        "rank": "3"
-      }
-    ]
+    "qualifications": []
   }
 }
