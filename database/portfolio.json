@@ -25,48 +25,28 @@
     "displayName": "Specialization",
     "skills": [
       {
-        "id": "1740418464373",
-        "name": "Pandas",
-        "rating": 9
+        "id": "1744036531208",
+        "name": "Unity Engine",
+        "rating": 8
       },
       {
-        "id": "1740418454973",
-        "name": "Tableau",
-        "rating": 7.5
-      },
-      {
-        "id": "1740418435124",
-        "name": "Power BI",
-        "rating": 7
-      },
-      {
-        "id": "1740418479923",
-        "name": "Data Processing",
+        "id": "1744036546675",
+        "name": "React",
         "rating": 8.5
       },
       {
-        "id": "1740418493740",
-        "name": "Risk Assessment",
-        "rating": 7.5
+        "id": "1744036554641",
+        "name": "Next.js",
+        "rating": 8.5
       },
       {
-        "id": "1740418511140",
-        "name": "Competitive Analysis",
-        "rating": 8
+        "id": "1744036574675",
+        "name": "GitHub",
+        "rating": 9
       },
       {
-        "id": "1740418518206",
-        "name": "TensorFlow",
-        "rating": 8
-      },
-      {
-        "id": "1740418533223",
-        "name": "Regression Analysis",
-        "rating": 8
-      },
-      {
-        "id": "1740489583060",
-        "name": "Github Actions",
+        "id": "1744036581758",
+        "name": "C++",
         "rating": 8
       }
     ],
