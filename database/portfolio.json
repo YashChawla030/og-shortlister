@@ -68,6 +68,11 @@
         "id": "1744037420760",
         "name": "Application Development",
         "rating": 8
+      },
+      {
+        "id": "1744037546760",
+        "name": "MERN",
+        "rating": 8
       }
     ],
     "skillAnimationType": "moving-animation"
