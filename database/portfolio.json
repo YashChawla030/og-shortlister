@@ -25,11 +25,6 @@
     "displayName": "Skills",
     "skills": [
       {
-        "id": "1744036554641",
-        "name": "Next.js",
-        "rating": 8.5
-      },
-      {
         "id": "1744036581758",
         "name": "C++",
         "rating": 8
@@ -55,11 +50,6 @@
         "rating": 8
       },
       {
-        "id": "1744037387643",
-        "name": "React.js",
-        "rating": 8.5
-      },
-      {
         "id": "1744037393210",
         "name": "JavaScript",
         "rating": 8
@@ -73,9 +63,24 @@
         "id": "1744037546760",
         "name": "MERN",
         "rating": 8
+      },
+      {
+        "id": "1744039858268",
+        "name": "TypeScript",
+        "rating": 8.5
+      },
+      {
+        "id": "1744039870735",
+        "name": "NextJS",
+        "rating": 8
+      },
+      {
+        "id": "1744039881920",
+        "name": "ReactJS",
+        "rating": 8.5
       }
     ],
-    "skillAnimationType": "moving-animation"
+    "skillAnimationType": "still-animation"
   },
   "achievementsInfo": {
     "displayName": "Achievements",
