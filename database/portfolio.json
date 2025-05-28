@@ -25,11 +25,6 @@
     "displayName": "Skills",
     "skills": [
       {
-        "id": "1744036581758",
-        "name": "C++",
-        "rating": 8
-      },
-      {
         "id": "1744036738824",
         "name": "Tailwind CSS",
         "rating": 8.5
@@ -43,11 +38,6 @@
         "id": "1744037345809",
         "name": "Game Design",
         "rating": 8.5
-      },
-      {
-        "id": "1744037353509",
-        "name": "C#",
-        "rating": 8
       },
       {
         "id": "1744037393210",
@@ -78,6 +68,11 @@
         "id": "1744042208304",
         "name": "TypeScript",
         "rating": 8
+      },
+      {
+        "id": "1748419419439",
+        "name": "SAP SD",
+        "rating": 8.5
       }
     ],
     "skillAnimationType": "moving-animation"
