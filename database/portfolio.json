@@ -73,6 +73,11 @@
         "id": "1748419419439",
         "name": "SAP SD",
         "rating": 8.5
+      },
+      {
+        "id": "1760518712306",
+        "name": "SQL",
+        "rating": 8
       }
     ],
     "skillAnimationType": "moving-animation"
